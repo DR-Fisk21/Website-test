@@ -1,0 +1,58 @@
+#container{
+    width: 960px;
+    margin: 0 auto 0;
+    background-color: lightgrey;}
+    
+    
+#header{
+    height: 120px;
+    width: 960px;
+    background-color: skyblue;
+    text-align: center;}
+
+
+#nav{
+    height: 40px;
+    width: 960px;
+    background-color: #442ab6;
+    font-family: 'Monoton', cursive;
+    font-family: 'monospace';
+    clear: left;}
+
+
+#content{
+    height: 500px;
+    width: 960px;
+    background-color: grey;
+    padding:10px;}
+
+
+#footer{
+    height: 120px;
+    width: 960px;
+    background-color: #dcbcfb;}
+
+
+body{
+   background-image: url('Images/Background.webp') ;}
+
+
+li {
+    float: left;}
+
+  
+li a {
+    display: block;
+    text-align: left;
+    padding: 14px;
+    text-decoration: none;}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;}
+
+
+iframe{
+    padding: 10px;}
